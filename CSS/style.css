@@ -430,7 +430,7 @@ question PAGE
 ・・・・・・・・・・・・ */
 
 .second-v {
-  background-image: url(../img/woman-g67b86de8b_640.jpg);
+  background-image: url(./img/woman-g67b86de8b_640.jpg);
   background-size: cover;
   width: 100%;
   /* height: 1000px; */
@@ -480,7 +480,7 @@ li{
 
 
 .third-v {
-  background-image: url(../img/weight-lifting-g1acdaef3c_640.jpg);
+  background-image: url(./img/weight-lifting-g1acdaef3c_640.jpg);
   background-size: cover;
   width: 100%;
   height: 800px;
